@@ -2,11 +2,11 @@
 
 ## 목차
 
-- [Git이란?]()
-- [Git 기본]() - [명령어]()
-- [브랜치와 병합]()
-- [GitHub 사용]()
-- [추가 리소스]()
+- [Git이란?](#git이란)
+- [Git 기본](#git-기본-명령어) - [명령어](#git-기본-명령어)
+- [브랜치와 병합](#2-파일-추가-및-커밋)
+- [GitHub 사용](#github-사용)
+- [추가 리소스](#추가-리소스)
 ---
 ## Git이란?
 
@@ -55,7 +55,7 @@ git push origin main
 ![Git 로고]
 (URL: https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 
-추가 리소스
+## 추가 리소스
 
 - Git에 대해 더 알고 싶다면, [Git 공식 문서](https://git-scm.com/doc)를 확인하세요.
 - GitHub 사용법에 대한 자세한 정보는 [GitHub Docs](https://docs.github.com/en)에서 찾아볼 수 있습니다.
